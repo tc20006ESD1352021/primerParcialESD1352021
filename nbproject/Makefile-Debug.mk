@@ -56,7 +56,7 @@ TESTOBJECTFILES= \
 	${TESTDIR}/tests/newcunittest3.o
 
 # C Compiler Flags
-CFLAGS=
+CFLAGS=-fprofile-arcs -ftest-coverage
 
 # CC Compiler Flags
 CCFLAGS=

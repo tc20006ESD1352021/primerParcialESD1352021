@@ -1,8 +1,6 @@
 /*
- * File:   newcunittest4.c
- * Author: tjdmoi
- *
- * Created on 09-06-2021, 12:12:52 AM
+ * File:   newcunittest3.c
+ * Author: Inmer Arana y Moisés Tejada
  */
 
 #include <stdio.h>
